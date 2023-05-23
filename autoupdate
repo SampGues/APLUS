@@ -1,1 +1,7 @@
-{"main":{"link":"https://github.com/SampGues/APLUS/raw/main/ASK%20PLUS.luac","version":1.00,"description":"[\"Это тест системы обновлений!\", \"А это перенос строки\"]"}}
+{
+"main" : {
+    "link" : "https://github.com/SampGues/APLUS/raw/main/ASK%20PLUS.luac",
+    "version" : 1.00, 
+    "description" : "[\"Это тест системы обновлений!\", \"А это перенос строки\"]"
+    }
+}
